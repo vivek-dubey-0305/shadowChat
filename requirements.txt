@@ -1,0 +1,10 @@
+# Core dependencies
+# Tkinter is built-in, no need to install via pip
+
+# No external libraries needed as of now
+# But keeping structure for future scalability
+
+# Optional: lock Python version
+python_version >=3.8
+
+# Optional: add json, though it's standard lib too
